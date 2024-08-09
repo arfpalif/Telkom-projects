@@ -1,0 +1,1231 @@
+ba19890222
+Password:
+
+        *********************************************************
+                Welcome to TITAN series OLT of ZTE Corporation
+        *********************************************************
+Login at: 08:34:22 08-08-2024
+The last successful login was performed at 19:16:58 08-07-2024. Afterwards, 0 authentication failure occurred.
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:2
+
+ONU interface:                  gpon_onu-1/1/1:2
+Auth information:               sn(FHTT97BA26B0)
+SN reported:                    FHTT97BA26B0
+ONU ID:                         14
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6245N
+State :                         working
+Hardware version:               WKE2.094.347A0
+Software version:               RP2870
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-14 10:29:17    2024-05-14 11:53:01     LOS      
+   2   2024-05-14 11:54:07    2024-05-23 16:07:04     DyingGasp 
+   3   2024-05-23 16:57:06    2024-05-25 14:49:32     LOSi     
+   4   2024-05-25 14:49:54    2024-06-04 11:28:51     DyingGasp 
+   5   2024-06-04 11:32:31    2024-06-14 23:04:35     DyingGasp 
+   6   2024-06-14 23:46:38    2024-06-25 15:11:30     LOSi     
+   7   2024-06-25 15:12:01    2024-06-30 14:14:02     DyingGasp 
+   8   2024-06-30 19:18:07    2024-07-01 16:59:23     DyingGasp 
+   9   2024-07-01 17:04:08    2024-08-03 04:42:19     DyingGasp 
+  10   2024-08-03 04:46:55    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:3
+
+ONU interface:                  gpon_onu-1/1/1:3
+Auth information:               sn(ZTEGD3308586)
+SN reported:                    ZTEGD3308586
+ONU ID:                         76
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-23 16:56:27    2024-05-25 14:49:55     LOSi     
+   2   2024-05-25 14:50:24    2024-05-29 01:30:14     DyingGasp 
+   3   2024-05-29 05:31:19    2024-06-14 23:04:35     DyingGasp 
+   4   2024-06-14 23:46:01    2024-06-25 15:12:02     LOSi     
+   5   2024-06-25 15:12:32    2024-07-01 16:59:23     DyingGasp 
+   6   2024-07-01 17:03:29    2024-07-08 12:27:27     DyingGasp 
+   7   2024-07-08 18:00:53    2024-07-08 22:37:42     DyingGasp 
+   8   2024-07-08 22:38:32    2024-07-09 00:24:06     LOSi     
+   9   2024-07-09 00:24:53    2024-08-03 04:42:19     DyingGasp 
+  10   2024-08-03 04:46:17    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:4
+
+ONU interface:                  gpon_onu-1/1/1:4
+Auth information:               sn(ZTEGCBDAF0D4)
+SN reported:                    ZTEGCBDAF0D4
+ONU ID:                         68
+ONU type configured:            ZTEG-F609
+ONU type reported:              ZXHN F609V5.3
+State :                         working
+Hardware version:               V5.3
+Software version:               V7.0.10P1N18
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-14 23:46:07    2024-06-15 06:36:33     DyingGasp 
+   2   2024-06-15 06:37:17    2024-06-21 13:06:45     DyingGasp 
+   3   2024-06-21 13:07:31    2024-06-25 15:13:46     LOSi     
+   4   2024-06-25 15:14:12    2024-06-26 08:30:14     LOSi     
+   5   2024-06-26 08:31:24    2024-06-27 10:57:36     LOSi     
+   6   2024-06-27 10:58:03    2024-07-01 16:59:23     DyingGasp 
+   7   2024-07-01 17:03:38    2024-07-10 16:29:34     DyingGasp 
+   8   2024-07-10 16:34:13    2024-08-03 04:42:19     DyingGasp 
+   9   2024-08-03 04:46:25    2024-08-05 09:32:04     DyingGasp 
+  10   2024-08-05 09:32:48    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:5
+
+ONU interface:                  gpon_onu-1/1/1:5
+Auth information:               sn(HWTC0850739E)
+SN reported:                    HWTC0850739E
+ONU ID:                         32
+ONU type configured:            OPEN_HUAWEI
+ONU type reported:              HG8245H5
+State :                         working
+Hardware version:               150D.B
+Software version:               V5R019C00S105
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-14 10:28:02    2024-05-14 10:28:49     LOSi     
+   2   2024-05-14 10:29:20    2024-05-14 11:53:01     LOS      
+   3   2024-05-14 11:53:49    2024-05-23 16:07:04     DyingGasp 
+   4   2024-05-23 17:07:54    2024-05-25 14:51:27     LOSi     
+   5   2024-05-25 14:51:55    2024-06-14 23:04:35     DyingGasp 
+   6   2024-06-14 23:45:59    2024-06-21 09:18:54     Reboot   
+   7   2024-06-21 09:19:43    2024-06-25 15:14:12     LOSi     
+   8   2024-06-25 15:14:51    2024-07-01 16:59:23     DyingGasp 
+   9   2024-07-01 17:03:30    2024-08-03 04:42:19     DyingGasp 
+  10   2024-08-03 04:46:17    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:6
+
+ONU interface:                  gpon_onu-1/1/1:6
+Auth information:               sn(ZTEGC1D94160)
+SN reported:                    ZTEGC1D94160
+ONU ID:                         67
+ONU type configured:            ZTEG-F609
+ONU type reported:              F609V5.2
+State :                         working
+Hardware version:               V5.2
+Software version:               V5.2.10P5N30
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-14 10:29:17    2024-05-14 11:53:01     LOS      
+   2   2024-05-14 11:54:46    2024-05-23 16:07:04     DyingGasp 
+   3   2024-05-23 16:56:54    2024-05-24 13:50:25     DyingGasp 
+   4   2024-05-24 13:52:15    2024-05-25 14:51:50     LOSi     
+   5   2024-05-25 14:52:25    2024-05-26 12:13:48     DyingGasp 
+   6   2024-05-26 12:22:07    2024-06-14 23:04:35     DyingGasp 
+   7   2024-06-14 23:46:08    2024-06-25 15:14:53     LOSi     
+   8   2024-06-25 15:15:33    2024-07-01 16:59:23     DyingGasp 
+   9   2024-07-04 15:38:51    2024-08-03 04:42:19     DyingGasp 
+  10   2024-08-03 05:24:28    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:7
+
+ONU interface:                  gpon_onu-1/1/1:7
+Auth information:               sn(HWTC49E6DDAD)
+SN reported:                    HWTC49E6DDAD
+ONU ID:                         86
+ONU type configured:            OPEN_HUAWEI
+ONU type reported:              HG8145V5
+State :                         working
+Hardware version:               26AD.A
+Software version:               V5R020C10S271
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-25 14:53:26    2024-06-14 12:39:08     DyingGasp 
+   2   2024-06-14 12:40:10    2024-06-14 12:40:22     DyingGasp 
+   3   2024-06-14 13:22:49    2024-06-14 23:04:35     DyingGasp 
+   4   2024-06-14 23:45:47    2024-06-25 15:10:17     LOSi     
+   5   2024-06-25 15:10:43    2024-07-01 16:59:23     DyingGasp 
+   6   2024-07-01 17:03:29    2024-07-13 16:41:42     DyingGasp 
+   7   2024-07-15 21:25:18    2024-07-17 07:35:05     DyingGasp 
+   8   2024-07-17 07:36:27    2024-07-19 20:12:17     DyingGasp 
+   9   2024-07-20 23:17:41    2024-08-03 04:42:19     DyingGasp 
+  10   2024-08-03 04:46:47    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:8
+
+ONU interface:                  gpon_onu-1/1/1:8
+Auth information:               sn(ZTEGD5D43A2D)
+SN reported:                    ZTEGD5D43A2D
+ONU ID:                         51
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-25 16:19:05    2024-05-25 16:37:40     LOSi     
+   2   2024-05-25 16:38:05    2024-06-14 23:04:35     DyingGasp 
+   3   2024-06-14 23:46:17    2024-06-21 10:20:29     DyingGasp 
+   4   2024-06-21 10:21:33    2024-06-21 11:58:56     DyingGasp 
+   5   2024-06-21 12:59:34    2024-06-25 11:15:12     DyingGasp 
+   6   2024-06-25 12:25:34    2024-06-25 15:13:12     LOSi     
+   7   2024-06-25 15:13:41    2024-07-01 16:59:23     DyingGasp 
+   8   2024-07-01 17:03:49    2024-07-09 00:24:07     LOSi     
+   9   2024-07-09 00:25:19    2024-08-03 04:42:19     DyingGasp 
+  10   2024-08-03 04:46:38    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/1:9
+
+ONU interface:                  gpon_onu-1/1/1:9
+Auth information:               sn(ZTEGD6D28918)
+SN reported:                    ZTEGD6D28918
+ONU ID:                         46
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-08-01 00:08:36    2024-08-02 00:07:15     Reboot   
+   2   2024-08-02 00:08:15    2024-08-03 00:07:05     Reboot   
+   3   2024-08-03 00:08:06    2024-08-03 04:42:19     DyingGasp 
+   4   2024-08-03 04:50:37    2024-08-04 00:07:20     Reboot   
+   5   2024-08-04 00:08:18    2024-08-05 00:07:14     Reboot   
+   6   2024-08-05 00:08:17    2024-08-06 00:07:03     Reboot   
+   7   2024-08-06 00:07:58    2024-08-07 00:07:20     Reboot   
+   8   2024-08-07 00:08:19    2024-08-07 16:49:34     DyingGasp 
+   9   2024-08-07 16:59:30    2024-08-08 00:07:28     Reboot   
+  10   2024-08-08 00:08:30    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/2:1
+
+ONU interface:                  gpon_onu-1/1/2:1
+Auth information:               sn(ZTEGCC577A7C)
+SN reported:                    ZTEGCC577A7C
+ONU ID:                         96
+ONU type configured:            ZTEG-F609
+ONU type reported:              F609V5.3
+State :                         working
+Hardware version:               V5.3
+Software version:               V7.0.10P1N18
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-01-05 19:01:00    2024-01-05 19:27:50     LOS      
+   2   2024-01-05 19:28:29    0000-00-00 00:00:00              
+   3   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   4   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   5   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   6   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/2:2
+
+ONU interface:                  gpon_onu-1/1/2:2
+Auth information:               sn(ZTEGC1ED1C79)
+SN reported:                    ZTEGC1ED1C79
+ONU ID:                         9
+ONU type configured:            ZTEG-F660
+ONU type reported:              F609V2.0
+State :                         working
+Hardware version:               V2.0
+Software version:               V8.0.10P1T5
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-01-05 19:06:00    2024-01-05 19:26:39     Reboot   
+   2   2024-01-05 19:28:41    2024-01-05 19:52:34     Reboot   
+   3   2024-01-05 19:53:48    2024-01-25 08:11:32     DyingGasp 
+   4   2024-01-25 08:15:25    2024-01-25 08:25:35     LOSi     
+   5   2024-01-25 08:26:34    2024-01-29 11:26:05     Reboot   
+   6   2024-01-29 11:27:05    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/2:3
+
+ONU interface:                  gpon_onu-1/1/2:3
+Auth information:               sn(HWTCE6ABFEAC)
+SN reported:                    HWTCE6ABFEAC
+ONU ID:                         70
+ONU type configured:            OPEN_HUAWEI
+ONU type reported:              HG8145V5
+State :                         working
+Hardware version:               26AD.A
+Software version:               V5R020C00S180
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-11 14:35:51    2024-07-11 14:51:57     Reboot   
+   2   2024-07-11 14:52:42    0000-00-00 00:00:00              
+   3   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   4   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   5   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   6   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/6:1
+
+ONU interface:                  gpon_onu-1/1/6:1
+Auth information:               sn(HWTC49BE6DAD)
+SN reported:                    HWTC49BE6DAD
+ONU ID:                         21
+ONU type configured:            OPEN_HUAWEI
+ONU type reported:              HG8145V5
+State :                         DyingGasp
+Hardware version:               26AD.A
+Software version:               V5R020C10S271
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-03 13:08:09    2024-05-03 13:08:45     LOS      
+   2   2024-05-03 13:09:18    2024-05-03 13:11:24     LOS      
+   3   2024-05-03 13:11:40    2024-05-03 14:15:02     LOSi     
+   4   2024-05-03 14:15:28    2024-05-15 16:37:30     LOSi     
+   5   2024-05-15 16:37:46    2024-05-15 17:48:36     LOSi     
+   6   2024-05-15 17:48:47    2024-05-21 02:21:46     DyingGasp 
+   7   2024-05-21 03:01:40    2024-05-22 12:48:24     DyingGasp 
+   8   2024-05-22 12:53:11    2024-06-15 01:03:34     DyingGasp 
+   9   2024-06-15 01:07:36    2024-06-27 16:05:40     DyingGasp 
+  10   2024-07-09 15:15:01    2024-07-09 15:15:07     DyingGasp 
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/6:2
+
+ONU interface:                  gpon_onu-1/1/6:2
+Auth information:               sn(ZTEGD4A62C2F)
+SN reported:                    ZTEGD4A62C2F
+ONU ID:                         72
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-03 13:11:40    2024-05-03 14:15:44     LOSi     
+   2   2024-05-03 14:16:07    2024-05-21 02:21:46     DyingGasp 
+   3   2024-05-21 03:02:01    2024-05-22 12:48:24     DyingGasp 
+   4   2024-05-22 12:53:32    2024-06-24 19:11:11     DyingGasp 
+   5   2024-06-24 19:13:42    2024-07-01 10:02:13     LOSi     
+   6   2024-07-01 10:02:55    2024-07-01 10:09:22     LOSi     
+   7   2024-07-01 10:10:35    2024-07-09 00:24:19     LOS      
+   8   2024-07-09 00:25:27    2024-07-09 06:42:01     DyingGasp 
+   9   2024-07-09 06:43:00    2024-07-17 17:49:31     DyingGasp 
+  10   2024-07-17 18:13:45    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/6:3
+
+ONU interface:                  gpon_onu-1/1/6:3
+Auth information:               sn(ZTEGD4AA96CB)
+SN reported:                    ZTEGD4AA96CB
+ONU ID:                         98
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-03 13:09:09    2024-05-03 13:11:24     LOS      
+   2   2024-05-03 13:11:37    2024-05-03 14:14:14     LOSi     
+   3   2024-05-03 14:14:49    2024-05-21 02:21:46     DyingGasp 
+   4   2024-05-21 03:02:01    2024-05-22 12:48:24     DyingGasp 
+   5   2024-05-22 12:53:31    2024-07-09 00:24:08     LOSi     
+   6   2024-07-09 00:25:13    2024-07-17 17:49:31     DyingGasp 
+   7   2024-07-17 18:13:45    2024-07-23 12:28:49     LOSi     
+   8   2024-07-24 18:17:18    2024-07-24 18:24:04     LOSi     
+   9   2024-07-24 18:24:27    2024-07-24 18:24:29     LOSi     
+  10   2024-07-24 18:25:18    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/6:4
+
+ONU interface:                  gpon_onu-1/1/6:4
+Auth information:               sn(ZTEGD6D28F22)
+SN reported:                    ZTEGD6D28F22
+ONU ID:                         58
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-14 14:14:58    2024-06-14 14:22:39     LOSi     
+   2   2024-06-14 14:22:54    2024-06-25 18:44:44     DyingGasp 
+   3   2024-06-25 18:45:32    2024-06-25 18:49:58     DyingGasp 
+   4   2024-06-25 18:51:14    2024-06-25 19:48:35     DyingGasp 
+   5   2024-06-25 19:49:24    2024-06-26 10:46:02     DyingGasp 
+   6   2024-06-26 10:46:52    2024-07-04 11:50:54     LOSi     
+   7   2024-07-04 11:51:49    2024-07-09 00:24:07     LOSi     
+   8   2024-07-09 00:25:03    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/7:1
+
+ONU interface:                  gpon_onu-1/1/7:1
+Auth information:               sn(ZTEGD4A63148)
+SN reported:                    ZTEGD4A63148
+ONU ID:                         112
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-25 13:27:56    2024-06-30 19:44:04     DyingGasp 
+   2   2024-06-30 19:59:29    2024-07-05 09:57:49     DyingGasp 
+   3   2024-07-05 10:00:02    2024-07-05 16:58:01     DyingGasp 
+   4   2024-07-05 16:59:31    2024-07-07 10:06:26     DyingGasp 
+   5   2024-07-07 10:07:44    2024-07-09 00:24:20     LOS      
+   6   2024-07-09 00:25:30    2024-07-11 15:42:03     DyingGasp 
+   7   2024-07-11 15:43:27    2024-07-15 16:57:26     DyingGasp 
+   8   2024-07-15 16:58:58    2024-07-20 13:21:48     DyingGasp 
+   9   2024-07-20 13:23:10    2024-08-06 13:08:29     DyingGasp 
+  10   2024-08-06 13:12:31    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/7:2
+
+ONU interface:                  gpon_onu-1/1/7:2
+Auth information:               sn(ZTEGD5D4671A)
+SN reported:                    ZTEGD5D4671A
+ONU ID:                         3
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-27 14:30:59    2024-06-01 10:29:03     DyingGasp 
+   2   2024-06-01 10:30:55    2024-06-01 10:33:53     LOS      
+   3   2024-06-01 10:34:31    2024-06-01 10:38:38     LOS      
+   4   2024-06-01 10:39:12    2024-06-01 13:18:54     LOS      
+   5   2024-06-01 13:19:32    2024-06-07 09:44:30     DyingGasp 
+   6   2024-06-07 09:46:08    2024-06-25 09:26:06     DyingGasp 
+   7   2024-06-25 13:27:59    2024-07-09 00:24:08     LOSi     
+   8   2024-07-09 00:25:19    2024-07-21 12:26:07     DyingGasp 
+   9   2024-07-21 12:27:54    2024-08-06 13:08:29     DyingGasp 
+  10   2024-08-06 13:12:40    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/7:3
+
+ONU interface:                  gpon_onu-1/1/7:3
+Auth information:               sn(ZTEGD346D7D2)
+SN reported:                    ZTEGD346D7D2
+ONU ID:                         34
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-09 00:25:06    2024-07-11 11:12:56     DyingGasp 
+   2   2024-07-12 10:03:56    2024-07-13 11:53:04     DyingGasp 
+   3   2024-07-13 11:54:06    2024-07-17 20:57:58     DyingGasp 
+   4   2024-07-19 13:05:42    2024-07-24 13:38:27     DyingGasp 
+   5   2024-07-27 11:12:05    2024-07-27 11:13:07     DyingGasp 
+   6   2024-07-27 11:15:24    2024-08-01 22:58:58     DyingGasp 
+   7   2024-08-02 07:04:09    2024-08-02 20:44:09     DyingGasp 
+   8   2024-08-02 20:45:30    2024-08-02 22:02:37     DyingGasp 
+   9   2024-08-04 17:05:43    2024-08-06 13:08:29     DyingGasp 
+  10   2024-08-06 13:12:31    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/8:1
+
+ONU interface:                  gpon_onu-1/1/8:1
+Auth information:               sn(ZTEGD35905D5)
+SN reported:                    ZTEGD35905D5
+ONU ID:                         96
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-25 13:31:03    2024-05-29 20:43:52     DyingGasp 
+   2   2024-05-29 20:46:55    2024-06-18 14:32:30     LOS      
+   3   2024-06-18 14:35:48    2024-06-18 15:04:04     LOSi     
+   4   2024-06-18 15:04:37    2024-06-18 15:56:39     LOSi     
+   5   2024-06-18 15:57:17    2024-07-02 19:30:06     Reboot   
+   6   2024-07-02 19:30:55    2024-07-09 00:24:05     LOSi     
+   7   2024-07-09 00:25:00    2024-07-11 10:11:44     DyingGasp 
+   8   2024-07-11 12:05:39    2024-07-14 08:59:50     DyingGasp 
+   9   2024-07-14 09:02:53    2024-07-19 12:27:55     DyingGasp 
+  10   2024-07-19 12:29:07    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/8:2
+
+ONU interface:                  gpon_onu-1/1/8:2
+Auth information:               sn(FHTT99A75C98)
+SN reported:                    FHTT99A75C98
+ONU ID:                         64
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145F
+State :                         working
+Hardware version:               WKE2.094.373A0
+Software version:               RP2951
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-11 11:31:51    2024-07-13 18:08:17     DyingGasp 
+   2   2024-07-13 18:09:42    2024-07-13 18:14:46     DyingGasp 
+   3   2024-07-13 18:17:01    2024-07-14 08:59:50     DyingGasp 
+   4   2024-07-14 09:03:14    2024-07-14 12:15:08     DyingGasp 
+   5   2024-07-14 12:16:31    2024-07-14 12:37:59     LOSi     
+   6   2024-07-14 12:39:22    2024-08-06 06:20:17     DyingGasp 
+   7   2024-08-06 06:21:45    2024-08-06 08:01:36     DyingGasp 
+   8   2024-08-06 08:02:54    2024-08-06 09:54:54     DyingGasp 
+   9   2024-08-06 09:56:16    2024-08-06 10:21:33     DyingGasp 
+  10   2024-08-06 10:23:25    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/8:3
+
+ONU interface:                  gpon_onu-1/1/8:3
+Auth information:               sn(HWTC49B3BEAD)
+SN reported:                    HWTC49B3BEAD
+ONU ID:                         126
+ONU type configured:            OPEN_HUAWEI
+ONU type reported:              HG8145V5
+State :                         DyingGasp
+Hardware version:               26AD.A
+Software version:               V5R020C10S271
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-10 17:02:20    2024-07-11 06:28:47     DyingGasp 
+   2   2024-07-11 13:10:11    2024-07-11 14:40:10     DyingGasp 
+   3   2024-07-11 15:53:20    2024-07-11 15:57:10     DyingGasp 
+   4   2024-07-11 17:07:12    2024-07-12 06:04:27     DyingGasp 
+   5   2024-07-12 17:27:32    2024-07-13 08:00:14     DyingGasp 
+   6   2024-07-13 18:10:52    2024-07-14 08:59:50     DyingGasp 
+   7   2024-07-14 09:03:12    2024-07-18 05:32:49     DyingGasp 
+   8   2024-07-18 17:50:07    2024-07-19 06:25:55     DyingGasp 
+   9   2024-07-19 10:15:57    2024-07-21 18:08:33     DyingGasp 
+  10   2024-07-21 18:09:17    2024-07-23 16:45:52     DyingGasp 
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/8:4
+
+ONU interface:                  gpon_onu-1/1/8:4
+Auth information:               sn(ZTEGD5D460BB)
+SN reported:                    ZTEGD5D460BB
+ONU ID:                         127
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-14 09:02:53    2024-07-17 12:27:11     DyingGasp 
+   2   2024-07-17 12:33:34    2024-07-20 06:59:59     DyingGasp 
+   3   2024-07-20 07:02:25    2024-07-20 07:03:51     DyingGasp 
+   4   2024-07-20 09:03:36    2024-07-22 13:15:03     DyingGasp 
+   5   2024-07-22 13:18:59    2024-07-29 12:36:32     DyingGasp 
+   6   2024-07-29 12:39:01    2024-07-31 11:27:29     DyingGasp 
+   7   2024-07-31 11:37:43    2024-08-01 12:19:54     DyingGasp 
+   8   2024-08-01 13:42:23    2024-08-06 12:40:02     DyingGasp 
+   9   2024-08-06 13:06:35    2024-08-07 12:37:17     DyingGasp 
+  10   2024-08-07 12:51:17    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/8:5
+
+ONU interface:                  gpon_onu-1/1/8:5
+Auth information:               sn(ZTEGD5D4393A)
+SN reported:                    ZTEGD5D4393A
+ONU ID:                         82
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-02 13:00:37    2024-06-02 13:07:55     LOSi     
+   2   2024-06-02 13:08:06    2024-06-14 08:43:17     DyingGasp 
+   3   2024-06-14 08:44:25    2024-06-18 14:32:30     LOS      
+   4   2024-06-18 14:35:48    2024-06-18 15:04:27     LOS      
+   5   2024-06-18 15:04:58    2024-06-18 15:57:03     LOS      
+   6   2024-06-18 15:57:38    2024-07-09 00:29:19     LOSi     
+   7   2024-07-09 00:30:29    2024-07-14 08:59:50     DyingGasp 
+   8   2024-07-14 09:03:02    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/8:6
+
+ONU interface:                  gpon_onu-1/1/8:6
+Auth information:               sn(FHTT9D475F60)
+SN reported:                    FHTT9D475F60
+ONU ID:                         28
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145D2
+State :                         working
+Hardware version:               WKE2.094.443A0
+Software version:               RP2939
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-09 10:51:40    2024-06-11 09:44:01     LOSi     
+   2   2024-06-11 09:44:41    2024-06-12 17:00:21     DyingGasp 
+   3   2024-06-12 17:02:04    2024-06-18 14:32:30     LOS      
+   4   2024-06-18 14:35:45    2024-06-18 15:04:27     LOS      
+   5   2024-06-18 15:05:01    2024-06-18 15:57:03     LOS      
+   6   2024-06-18 15:57:38    2024-07-14 08:59:50     DyingGasp 
+   7   2024-07-14 09:03:32    2024-07-27 21:13:21     DyingGasp 
+   8   2024-07-27 22:27:01    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/9:1
+
+ONU interface:                  gpon_onu-1/1/9:1
+Auth information:               sn(ZTEGD4A64464)
+SN reported:                    ZTEGD4A64464
+ONU ID:                         76
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-05-14 11:44:53    2024-05-29 20:43:53     DyingGasp 
+   2   2024-05-29 20:46:45    2024-06-10 11:43:50     LOSi     
+   3   2024-06-10 11:44:09    2024-06-18 14:35:22     LOS      
+   4   2024-06-18 14:40:15    2024-06-18 15:49:23     LOS      
+   5   2024-06-18 15:49:37    2024-06-18 15:50:33     LOS      
+   6   2024-06-18 15:52:17    2024-06-18 16:06:15     LOS      
+   7   2024-06-18 16:06:55    2024-06-27 10:50:51     LOS      
+   8   2024-06-27 10:52:00    2024-07-09 00:29:28     LOS      
+   9   2024-07-09 00:31:30    2024-07-14 08:59:49     DyingGasp 
+  10   2024-07-14 09:02:41    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/9:2
+
+ONU interface:                  gpon_onu-1/1/9:2
+Auth information:               sn(ZTEGD5D25B3D)
+SN reported:                    ZTEGD5D25B3D
+ONU ID:                         58
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-02 19:41:26    2024-06-10 11:44:18     LOSi     
+   2   2024-06-10 11:44:51    2024-06-18 14:35:22     LOS      
+   3   2024-06-18 14:40:18    2024-06-18 15:49:23     LOS      
+   4   2024-06-18 15:49:34    2024-06-18 15:50:33     LOS      
+   5   2024-06-18 15:52:14    2024-06-18 15:52:21     DyingGasp 
+   6   2024-06-18 15:53:46    2024-06-18 16:06:15     LOS      
+   7   2024-06-18 16:06:55    2024-06-27 10:50:51     LOS      
+   8   2024-06-27 10:51:42    2024-07-09 00:29:21     LOSi     
+   9   2024-07-09 00:30:29    2024-07-14 08:59:49     DyingGasp 
+  10   2024-07-14 09:02:50    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/9:3
+
+ONU interface:                  gpon_onu-1/1/9:3
+Auth information:               sn(ZTEGD5D46815)
+SN reported:                    ZTEGD5D46815
+ONU ID:                         19
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-18 15:49:37    2024-06-18 15:50:33     LOS      
+   2   2024-06-18 15:52:14    2024-06-18 16:06:15     LOS      
+   3   2024-06-18 16:06:58    2024-06-20 11:24:05     DyingGasp 
+   4   2024-06-20 11:25:46    2024-06-27 10:50:51     LOS      
+   5   2024-06-27 10:51:39    2024-07-04 10:46:39     DyingGasp 
+   6   2024-07-04 10:52:17    2024-07-04 11:17:49     DyingGasp 
+   7   2024-07-04 12:29:15    2024-07-06 21:10:59     DyingGasp 
+   8   2024-07-06 21:12:08    2024-07-09 00:28:52     LOSi     
+   9   2024-07-09 00:30:02    2024-07-14 08:59:49     DyingGasp 
+  10   2024-07-14 09:02:53    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/9:4
+
+ONU interface:                  gpon_onu-1/1/9:4
+Auth information:               sn(ZTEGD5D463AB)
+SN reported:                    ZTEGD5D463AB
+ONU ID:                         105
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-18 14:40:16    2024-06-18 15:49:23     LOS      
+   2   2024-06-18 15:49:37    2024-06-18 15:50:33     LOS      
+   3   2024-06-18 15:52:17    2024-06-18 16:06:15     LOS      
+   4   2024-06-18 16:07:16    2024-06-18 17:55:55     DyingGasp 
+   5   2024-06-18 17:57:25    2024-06-27 10:50:51     LOS      
+   6   2024-06-27 10:51:42    2024-07-09 00:28:52     LOSi     
+   7   2024-07-09 00:29:59    2024-07-11 11:35:31     DyingGasp 
+   8   2024-07-11 11:46:29    2024-07-14 08:59:49     DyingGasp 
+   9   2024-07-14 09:03:02    2024-07-19 19:37:15     DyingGasp 
+  10   2024-07-19 19:38:36    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/9:128
+
+ONU interface:                  gpon_onu-1/1/9:128
+Auth information:               sn(ZTEGCFF3E5F1)
+SN reported:                    ZTEGCFF3E5F1
+ONU ID:                         111
+ONU type configured:            ZTEG-F609
+ONU type reported:              F670LV9.0
+State :                         LOS
+Hardware version:               V9.0
+Software version:               V9.0.11P1N13
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-06-18 15:50:44    2024-06-18 15:51:11     LOS      
+   2   2024-06-18 15:51:26    2024-06-18 15:51:53     LOS      
+   3   2024-06-18 16:06:26    2024-06-18 16:06:40     LOS      
+   4   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   5   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   6   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/11:1
+
+ONU interface:                  gpon_onu-1/1/11:1
+Auth information:               sn(FHTTC05AD811)
+SN reported:                    FHTTC05AD811
+ONU ID:                         118
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145D2
+State :                         working
+Hardware version:               WKE2.094.443A0
+Software version:               RP4313
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-23 10:39:17    2024-07-23 10:44:41     LOS      
+   2   2024-07-23 10:46:04    2024-07-24 09:45:57     LOSi     
+   3   2024-07-24 09:46:57    2024-07-29 15:28:43     LOS      
+   4   2024-07-29 15:29:48    2024-07-29 15:33:33     LOS      
+   5   2024-07-29 15:34:30    0000-00-00 00:00:00              
+   6   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/11:2
+
+ONU interface:                  gpon_onu-1/1/11:2
+Auth information:               sn(FHTTC05AD7CA)
+SN reported:                    FHTTC05AD7CA
+ONU ID:                         25
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145D2
+State :                         working
+Hardware version:               WKE2.094.443A0
+Software version:               RP4313
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-23 13:26:27    2024-07-23 13:33:48     LOSi     
+   2   2024-07-23 13:34:06    2024-07-29 15:28:03     LOSi     
+   3   2024-07-29 15:28:48    2024-07-29 15:32:50     LOSi     
+   4   2024-07-29 15:33:38    0000-00-00 00:00:00              
+   5   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   6   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/11:3
+
+ONU interface:                  gpon_onu-1/1/11:3
+Auth information:               sn(FHTTC07730BB)
+SN reported:                    FHTTC07730BB
+ONU ID:                         87
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145D2
+State :                         working
+Hardware version:               WKE2.094.443A0
+Software version:               RP4313
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-23 13:41:47    2024-07-23 13:55:24     LOSi     
+   2   2024-07-23 13:55:44    2024-07-27 13:27:54     DyingGasp 
+   3   2024-07-27 13:29:18    2024-07-29 15:28:03     LOSi     
+   4   2024-07-29 15:28:51    2024-07-29 15:32:50     LOSi     
+   5   2024-07-29 15:33:38    2024-08-02 13:03:08     DyingGasp 
+   6   2024-08-02 13:18:13    2024-08-02 13:59:19     DyingGasp 
+   7   2024-08-02 14:11:42    2024-08-02 14:32:19     DyingGasp 
+   8   2024-08-02 14:43:13    2024-08-02 14:49:25     DyingGasp 
+   9   2024-08-02 14:57:03    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/11:4
+
+ONU interface:                  gpon_onu-1/1/11:4
+Auth information:               sn(FHTTC05AD80A)
+SN reported:                    FHTTC05AD80A
+ONU ID:                         91
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145D2
+State :                         working
+Hardware version:               WKE2.094.443A0
+Software version:               RP4313
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-23 16:40:07    2024-07-23 16:44:22     LOSi     
+   2   2024-07-23 16:44:35    2024-07-23 16:55:31     DyingGasp 
+   3   2024-07-23 16:56:28    2024-07-23 17:09:05     DyingGasp 
+   4   2024-07-23 17:09:56    2024-07-23 17:10:54     DyingGasp 
+   5   2024-07-23 17:11:48    2024-07-24 09:43:45     LOSi     
+   6   2024-07-24 09:44:56    2024-07-29 15:28:43     LOS      
+   7   2024-07-29 15:29:51    2024-07-29 15:33:33     LOS      
+   8   2024-07-29 15:34:18    2024-07-31 15:42:08     DyingGasp 
+   9   2024-07-31 15:44:00    2024-08-03 03:20:01     DyingGasp 
+  10   2024-08-03 03:49:04    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/11:5
+
+ONU interface:                  gpon_onu-1/1/11:5
+Auth information:               sn(FHTTC07730C9)
+SN reported:                    FHTTC07730C9
+ONU ID:                         41
+ONU type configured:            OPEN_FIBERHOME
+ONU type reported:              HG6145D2
+State :                         working
+Hardware version:               WKE2.094.443A0
+Software version:               RP4313
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-07-24 10:04:37    2024-07-24 10:20:57     LOSi     
+   2   2024-07-24 10:21:36    2024-07-24 11:07:49     LOSi     
+   3   2024-07-24 11:08:07    2024-07-24 11:16:45     LOSi     
+   4   2024-07-24 11:24:46    2024-07-24 12:08:56     LOSi     
+   5   2024-07-24 12:09:16    2024-07-24 17:26:02     DyingGasp 
+   6   2024-07-24 17:27:16    2024-07-28 18:21:55     DyingGasp 
+   7   2024-07-28 18:23:01    2024-07-29 15:28:43     LOS      
+   8   2024-07-29 15:29:48    2024-07-29 15:33:33     LOS      
+   9   2024-07-29 15:34:21    2024-08-04 15:23:52     DyingGasp 
+  10   2024-08-04 17:01:13    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#sho pon onu information gpon_onu-1/1/11:6
+
+ONU interface:                  gpon_onu-1/1/11:6
+Auth information:               sn(ZTEGD6D95DFE)
+SN reported:                    ZTEGD6D95DFE
+ONU ID:                         14
+ONU type configured:            ZTEG-F670L
+ONU type reported:              F670LV9.0
+State :                         working
+Hardware version:               V9.0
+Software version:               V9.0.11P1N84A
+------------------------------------------
+       Authpass Time          OfflineTime             Cause
+   1   2024-08-04 10:33:33    2024-08-04 10:39:53     LOSi     
+   2   2024-08-04 10:41:14    0000-00-00 00:00:00              
+   3   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   4   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   5   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   6   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   7   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   8   0000-00-00 00:00:00    0000-00-00 00:00:00              
+   9   0000-00-00 00:00:00    0000-00-00 00:00:00              
+  10   0000-00-00 00:00:00    0000-00-00 00:00:00              
+
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#
+GPON08-D5-KLJ-3#config terminal
+Enter configuration commands, one per line.  End with CTRL/Z.
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/1
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/1)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/2
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/2)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/6
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/6)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/6)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/7
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/7)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/7)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/8
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/8)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/8)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/9
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/9)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/9)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/11
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/11)#  perf-clear-current eth
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/11)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/1
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/1)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/2
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/2)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/6
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/6)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/6)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/7
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/7)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/7)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/8
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/8)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/8)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/9
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/9)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/9)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_olt-1/1/11
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/11)#  perf-clear-current mac
+%Error 230397: This is a Combo OLT port, please configure channel.
+GPON08-D5-KLJ-3(config-if-gpon_olt-1/1/11)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:4
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:4)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:4)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:5
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:5)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:5)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:6
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:6)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:6)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:7
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:7)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:7)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:8
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:8)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:8)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/1:9
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:9)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/1:9)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/2:1
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/2:1)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/2:1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/2:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/2:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/2:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/2:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/2:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/2:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/6:1
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:1)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/6:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/6:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/6:4
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:4)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/6:4)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/7:1
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/7:1)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/7:1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/7:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/7:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/7:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/7:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/7:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/7:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/8:1
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:1)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/8:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/8:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/8:4
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:4)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:4)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/8:5
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:5)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:5)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/8:6
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:6)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/8:6)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/9:1
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:1)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/9:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/9:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/9:4
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:4)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:4)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/9:128
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:128)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/9:128)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/11:1
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:1)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:1)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/11:2
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:2)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:2)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/11:3
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:3)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:3)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/11:4
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:4)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:4)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/11:5
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:5)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:5)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#int gpon_onu-1/1/11:6
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:6)#  perf-clear-current onu mac
+GPON08-D5-KLJ-3(config-if-gpon_onu-1/1/11:6)#!
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#
+GPON08-D5-KLJ-3(config)#[SSH] ERROR: Read from remote host 10.62.165.21: An existing connection was forcibly closed by the remote host.
+
+
+
+[SSH] INFO: DISCONNECT
+
+***
+*** DISCONNECT
+*** time 10:36:57
+***
